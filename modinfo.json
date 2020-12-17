@@ -1,0 +1,23 @@
+[
+	{
+		"dllpath": "GliderMod.dll",
+		"name": "FastGlider",
+		"version": "0.8.2.0",
+		"marksgamemodded": true,
+		"compatibleversions": [
+			"0.8.0"
+		],
+		"jsonFiles": [
+			{
+				"fileType": "addScienceUnlocks",
+				"index": 10005,
+				"relativePath": "Unlocks.json"
+			},
+			{
+				"fileType": "addOrReplacePlayerRecipes",
+				"index": 10002,
+				"relativePath": "Crafting.json"
+			}
+		]
+	}
+]

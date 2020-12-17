@@ -1,0 +1,8 @@
+[
+	{
+		"key" : "pipliz.baseresearch.glider",
+		"unlocksRecipes" : [
+			"FastGlider.player.fastglider"
+		]
+	}
+]

@@ -1,0 +1,16 @@
+[{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "FastGlider.player.fastglider",
+		"requires" : [
+			{"amount":100,"type":"linen"},
+			{"amount":75,"type":"ironrivet"},
+			{"amount":10,"type":"coatedplanks"},
+			{"amount":50,"type":"steelparts"}
+		],
+		"results": [{
+			"amount": 1,
+			"type": "fastglider"
+		}]
+	}
+]
