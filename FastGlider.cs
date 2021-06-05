@@ -48,6 +48,8 @@ namespace FastGlider
             settings.MeshTypeKey = "fastglider";
             settings.ItemTypeName = "fastglider";
 
+            
+            // Just taking a quick look, this should be the default speed the mod uses. Change this to edit the users speed if they find the default to be too slow.
             SetSpeed(2);
 
             string str = MODPATH + settings.MeshPath;
@@ -261,8 +263,8 @@ namespace FastGlider
                             Chat.Send(id, "Speed cannot be 0 or lower. Use 2 to reset glider to default speed", EChatSendOptions.Default);
                             return true;
                         }
-                        FastGlider.SetSpeed(result);
-                        Chat.Send(id, "Set Speed to " + result);
+                        // FastGlider.SetSpeed(result); Remove the function being called to disable users setting their speed.
+                        Chat.Send(id, "Appologies, Zero has disabled this chat command. Feel free to make suggestions on the default speed if you feel it's too low.");
                         return true;
                     }
                 }
