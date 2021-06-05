@@ -2,10 +2,10 @@
 	{
 		"dllpath": "GliderMod.dll",
 		"name": "FastGlider",
-		"version": "0.8.2.0",
+		"version": "2.0",
 		"marksgamemodded": true,
 		"compatibleversions": [
-			"0.8.0"
+			"0.8.1", "0.7.4"
 		],
 		"jsonFiles": [
 			{
