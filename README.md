@@ -8,9 +8,13 @@ place it in your mods folder, and you're done.
 
 # Install Notes
 1.) Download the latest [release](https://github.com/x0Z3ro0x/FastGliders/releases/tag/2.0)
+
 2.) Extract it inside your CS Server Mods folder
+
 3.) Delete the ZIP file once all files are extracted
+
 4.) Launch the server and make sure to enable the mod
+
 5.) Enjoy!
 
 # Something is Broke!
